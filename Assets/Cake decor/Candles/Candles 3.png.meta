@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 9cf17850a3538fc489909555333b6e30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 66802956192253530
+    second: Candles 3_0
+  - first:
+      213: -8170383238377702101
+    second: Candles 3_1
+  - first:
+      213: 6670635851422521063
+    second: Candles 3_2
+  - first:
+      213: -952091548565651658
+    second: Candles 3_3
+  - first:
+      213: -3672326379546654195
+    second: Candles 3_4
+  - first:
+      213: -8828707994649543765
+    second: Candles 3_5
+  - first:
+      213: -303963610995433610
+    second: Candles 3_6
+  - first:
+      213: -3265543020987550927
+    second: Candles 3_7
+  - first:
+      213: -7224196342989446870
+    second: Candles 3_8
+  - first:
+      213: -6823373688056136292
+    second: Candles 3_9
+  - first:
+      213: -6913801915160151769
+    second: Candles 3_10
+  - first:
+      213: -6535074984594369084
+    second: Candles 3_11
+  - first:
+      213: -5165888799674620120
+    second: Candles 3_12
+  - first:
+      213: 8289737944904189202
+    second: Candles 3_13
+  - first:
+      213: 2531484380054901563
+    second: Candles 3_14
+  - first:
+      213: -7931227674848307701
+    second: Candles 3_15
+  - first:
+      213: -3969490735885055350
+    second: Candles 3_16
+  - first:
+      213: -7930760059314601172
+    second: Candles 3_17
+  - first:
+      213: -4029796416964748185
+    second: Candles 3_18
+  - first:
+      213: -8266050911501906945
+    second: Candles 3_19
+  - first:
+      213: -3468962744329945712
+    second: Candles 3_20
+  - first:
+      213: 8260165416756087232
+    second: Candles 3_21
+  - first:
+      213: -8988391365000420717
+    second: Candles 3_22
+  - first:
+      213: -8171198702879308401
+    second: Candles 3_23
+  - first:
+      213: -1593429434303308993
+    second: Candles 3_24
+  - first:
+      213: 5824176473978255340
+    second: Candles 3_25
+  - first:
+      213: -2900115376907849633
+    second: Candles 3_26
+  - first:
+      213: 5645422944253622551
+    second: Candles 3_27
+  - first:
+      213: 5583984256033951282
+    second: Candles 3_28
+  - first:
+      213: 9026049813780907588
+    second: Candles 3_29
+  - first:
+      213: -8541458467288690478
+    second: Candles 3_30
+  - first:
+      213: 1446591055288677359
+    second: Candles 3_31
+  - first:
+      213: -1607369801322160183
+    second: Candles 3_32
+  - first:
+      213: 3865031189664498758
+    second: Candles 3_33
+  - first:
+      213: 6430240051230752701
+    second: Candles 3_34
+  - first:
+      213: -5679691255289830695
+    second: Candles 3_35
+  - first:
+      213: -486248653806614211
+    second: Candles 3_36
+  - first:
+      213: 7436887263267673250
+    second: Candles 3_37
+  - first:
+      213: 3152714264989494116
+    second: Candles 3_38
+  - first:
+      213: -1643085496076466557
+    second: Candles 3_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candles 3_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 516
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5609c94fe45de000800000000000000
+      internalID: 66802956192253530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 528
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df0b5bbb7fc9e80800000000000000
+      internalID: -8170383238377702101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 511
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6560ed6fbd29c50800000000000000
+      internalID: 6670635851422521063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 524
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb71ee7cd79c2f0800000000000000
+      internalID: -952091548565651658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 517
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a43d75d96490dc0800000000000000
+      internalID: -3672326379546654195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 517
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab3349fad02a7580800000000000000
+      internalID: -8828707994649543765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 455
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd8fdc4ba18cbf0800000000000000
+      internalID: -303963610995433610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 473
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f74b8ce57ea2d0800000000000000
+      internalID: -3265543020987550927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 465
+        width: 7
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21207493bf7ebb90800000000000000
+      internalID: -7224196342989446870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 477
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbaa158c18e41a0800000000000000
+      internalID: -6823373688056136292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 479
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729b67ff9cd3d00a0800000000000000
+      internalID: -6913801915160151769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 66
+        width: 349
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c516b20defbe45a0800000000000000
+      internalID: -6535074984594369084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 473
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a93ab1831f48b0800000000000000
+      internalID: -5165888799674620120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 436
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215471f6db01b0370800000000000000
+      internalID: 8289737944904189202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 442
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b335f9b91a3a12320800000000000000
+      internalID: 2531484380054901563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 434
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b065bef737e9ee190800000000000000
+      internalID: -7931227674848307701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 438
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0e5cf43989e8c0800000000000000
+      internalID: -3969490735885055350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 425
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2382b9beb740f190800000000000000
+      internalID: -7930760059314601172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 447
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9ca172894318c0800000000000000
+      internalID: -4029796416964748185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 434
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb82accd76194d80800000000000000
+      internalID: -8266050911501906945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 53
+        width: 205
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d362d63c4cbdfc0800000000000000
+      internalID: -3468962744329945712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 399
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c986bbaea002a270800000000000000
+      internalID: 8260165416756087232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_22
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 417
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39226f21da1d24380800000000000000
+      internalID: -8988391365000420717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 420
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f850fb592121a9e80800000000000000
+      internalID: -8171198702879308401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 416
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b13b13f5003e9e0800000000000000
+      internalID: -1593429434303308993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 406
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce739a035a1a3d050800000000000000
+      internalID: 5824176473978255340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_26
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 405
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5072cf1e68b0c7d0800000000000000
+      internalID: -2900115376907849633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 403
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719b31fc142985e40800000000000000
+      internalID: 5645422944253622551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 383
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e074c781c4e7d40800000000000000
+      internalID: 5583984256033951282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_29
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 384
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446446bcb78f24d70800000000000000
+      internalID: 9026049813780907588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 367
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0518157c4a67980800000000000000
+      internalID: -8541458467288690478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 277
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33db186e2531410800000000000000
+      internalID: 1446591055288677359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 353
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf90819ea971b9e0800000000000000
+      internalID: -1607369801322160183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 331
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64402c1a36953a530800000000000000
+      internalID: 3865031189664498758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 324
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf391af14dcc3950800000000000000
+      internalID: 6430240051230752701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_35
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 286
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2ae8645eead21b0800000000000000
+      internalID: -5679691255289830695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 268
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d394855fc6f7049f0800000000000000
+      internalID: -486248653806614211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 279
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a452b94091253760800000000000000
+      internalID: 7436887263267673250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b61039be0b0cb20800000000000000
+      internalID: 3152714264989494116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles 3_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 184
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38604ce52769239e0800000000000000
+      internalID: -1643085496076466557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Candles 3_0: 66802956192253530
+      Candles 3_1: -8170383238377702101
+      Candles 3_10: -6913801915160151769
+      Candles 3_11: -6535074984594369084
+      Candles 3_12: -5165888799674620120
+      Candles 3_13: 8289737944904189202
+      Candles 3_14: 2531484380054901563
+      Candles 3_15: -7931227674848307701
+      Candles 3_16: -3969490735885055350
+      Candles 3_17: -7930760059314601172
+      Candles 3_18: -4029796416964748185
+      Candles 3_19: -8266050911501906945
+      Candles 3_2: 6670635851422521063
+      Candles 3_20: -3468962744329945712
+      Candles 3_21: 8260165416756087232
+      Candles 3_22: -8988391365000420717
+      Candles 3_23: -8171198702879308401
+      Candles 3_24: -1593429434303308993
+      Candles 3_25: 5824176473978255340
+      Candles 3_26: -2900115376907849633
+      Candles 3_27: 5645422944253622551
+      Candles 3_28: 5583984256033951282
+      Candles 3_29: 9026049813780907588
+      Candles 3_3: -952091548565651658
+      Candles 3_30: -8541458467288690478
+      Candles 3_31: 1446591055288677359
+      Candles 3_32: -1607369801322160183
+      Candles 3_33: 3865031189664498758
+      Candles 3_34: 6430240051230752701
+      Candles 3_35: -5679691255289830695
+      Candles 3_36: -486248653806614211
+      Candles 3_37: 7436887263267673250
+      Candles 3_38: 3152714264989494116
+      Candles 3_39: -1643085496076466557
+      Candles 3_4: -3672326379546654195
+      Candles 3_5: -8828707994649543765
+      Candles 3_6: -303963610995433610
+      Candles 3_7: -3265543020987550927
+      Candles 3_8: -7224196342989446870
+      Candles 3_9: -6823373688056136292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
